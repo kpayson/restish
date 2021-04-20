@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/danielgtaylor/restish/cli"
+	"github.com/kpayson/restish/cli"
 	"golang.org/x/oauth2"
 )
 

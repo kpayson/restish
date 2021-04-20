@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/danielgtaylor/restish/cli"
-	"github.com/danielgtaylor/restish/oauth"
-	"github.com/danielgtaylor/restish/openapi"
+	"github.com/kpayson/restish/cli"
+	"github.com/kpayson/restish/oauth"
+	"github.com/kpayson/restish/openapi"
 )
 
 var version string = "dev"

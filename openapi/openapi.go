@@ -13,7 +13,7 @@ import (
 
 	"github.com/danielgtaylor/casing"
 	"github.com/danielgtaylor/openapi-cli-generator/shorthand"
-	"github.com/danielgtaylor/restish/cli"
+	"github.com/kpayson/restish/cli"
 	"github.com/getkin/kin-openapi/openapi3"
 	"github.com/gosimple/slug"
 	"github.com/spf13/cobra"
