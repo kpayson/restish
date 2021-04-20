@@ -1,4 +1,4 @@
-module github.com/danielgtaylor/restish
+module github.com/kpayson/restish
 
 go 1.14
 
