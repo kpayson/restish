@@ -24,7 +24,7 @@ archives:
         format: zip
 brews:
   - tap:
-      owner: danielgtaylor
+      owner: kpayson
       name: homebrew-restish
     homepage: https://rest.sh/
     description: Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
